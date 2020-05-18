@@ -8,4 +8,6 @@
     <string name="non_smoking_table">Non-smoking table</string>
     <string name="reset">Reset</string>
     <string name="smoking_table">Smoking Table</string>
+    <string name="confirm_reservation">CONFIRM RESERVATION</string>
+    <string name="details">Details</string>
 </resources>

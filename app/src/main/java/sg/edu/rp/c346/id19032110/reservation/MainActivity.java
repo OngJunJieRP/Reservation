@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         tp.setCurrentHour(19);
         tp.setCurrentMinute(30);
         dp.updateDate(2020, 5, 01);
-        
+
         btnReset.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
